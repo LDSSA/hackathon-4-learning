@@ -1,0 +1,3 @@
+user_ratings = user_profile_data['rating']
+user_profile_tags = user_profile_data.iloc[:, 4:].multiply(user_ratings, axis=0)
+user_profile_tags.head()
