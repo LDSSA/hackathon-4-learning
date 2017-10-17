@@ -102,3 +102,6 @@ ENV/
 
 # data
 ml-100k
+
+# mac files
+.DS_Store
