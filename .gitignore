@@ -102,3 +102,9 @@ ENV/
 
 # data
 ml-100k
+
+# OSX
+.DS_Store
+
+# PyCharm
+.idea
